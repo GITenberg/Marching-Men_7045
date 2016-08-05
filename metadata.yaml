@@ -1,0 +1,29 @@
+_repo: Marching-Men_7045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Sherwood
+    alias: Fever, Buck
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '231'
+    url: http://www.gutenberg.org/2009/agents/231
+    wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor leaders -- Fiction'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Coal mines and mining -- Pennsylvania -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- GITenberg
+title: Marching Men
+url: http://www.gutenberg.org/ebooks/7045
